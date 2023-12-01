@@ -1,4 +1,5 @@
 # 拼多多apk内嵌提权代码，及动态下发dex分析
+https://androidperformance.com/2023/05/14/bad-android-app-with-system-permissions/
 
 参考「 深蓝洞察 」的文章：https://mp.weixin.qq.com/s/P_EYQxOEupqdU0BJMRqWsw
 （Bundle 风水 - Android Parcel 序列化与反序列化不匹配系列漏洞，实现 0day/Nday 攻击，从而绕过系统校验，获取系统级 StartAnyWhere 能力）
